@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "woodbutik",
+        "api_key": "271938775244551",
+        "api_secret": "kvOVGeaCwmo54woUU0RnK2E3EBw"
+    }
+}
